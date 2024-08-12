@@ -4,5 +4,5 @@
   * git clone https://github.com/benaytms/invertedig.git
   * cd invertedig/
   * make
-  * ./invertido <br> <br>
+  * ./invertido <br>
   * make clean
