@@ -1,6 +1,6 @@
-# invertedig
+## invertedig
 
-* testing
+# testing
   * git clone https://github.com/benaytms/invertedig.git
   * cd invertedig/
   * make
